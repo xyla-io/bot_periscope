@@ -1,0 +1,8 @@
+{
+  "email": "EMAIL",
+  "password": "PASSWORD",
+  "base_url": "https://app.periscopedata.com/app/APP",
+  "dashboard_ids": [
+    123
+  ]
+}

@@ -1,0 +1,1 @@
+from .periscope_scraper import PeriscopeBot as Bot
